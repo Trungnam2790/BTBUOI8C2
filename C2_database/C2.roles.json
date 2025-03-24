@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "67d7e8a6ba0eee369a62619f"
+  },
+  "roleName": "user",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-17T09:17:26.190Z"
+  },
+  "description": "user role",
+  "updatedAt": {
+    "$date": "2025-03-17T09:17:26.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d7e8a6ba0eee369a6261a0"
+  },
+  "roleName": "mod",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-17T09:17:26.205Z"
+  },
+  "description": "mod role",
+  "updatedAt": {
+    "$date": "2025-03-17T09:17:26.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d7e8a6ba0eee369a6261a1"
+  },
+  "roleName": "admin",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-17T09:17:26.209Z"
+  },
+  "description": "admin role",
+  "updatedAt": {
+    "$date": "2025-03-17T09:17:26.209Z"
+  }
+}]

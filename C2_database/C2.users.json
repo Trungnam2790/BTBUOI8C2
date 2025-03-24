@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "67ce86a6c1d9a1fee146eb5d"
+  },
+  "username": "newuser",
+  "password": "password123",
+  "email": "newuser@example.com",
+  "fullName": "New User",
+  "avatarUrl": "http://example.com/avatar.jpg",
+  "status": true,
+  "role": {
+    "$oid": "60d5ec49f1b2c72d88f8b8b1"
+  },
+  "loginCount": 0,
+  "createdAt": {
+    "$date": "2025-03-10T06:28:54.302Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T07:01:21.608Z"
+  },
+  "__v": 0,
+  "isDeleted": true
+},
+{
+  "_id": {
+    "$oid": "67ce90cf19791bf6d6c9da1a"
+  },
+  "username": "john_doe",
+  "password": "securepassword",
+  "email": "john.doe@example.com",
+  "fullName": "John Doe",
+  "avatarUrl": "http://example.com/avatar.jpg",
+  "status": false,
+  "isDeleted": false,
+  "role": {
+    "$oid": "605c72ef2f799d2a4c8b4567"
+  },
+  "loginCount": 0,
+  "createdAt": {
+    "$date": "2025-03-10T07:12:15.655Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T07:12:15.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ce973bc5201018246f5959"
+  },
+  "username": "testuser12",
+  "password": "password123",
+  "email": "testuser2@example.com",
+  "fullName": "Test User",
+  "avatarUrl": "http://example.com/avatar.jpg",
+  "status": false,
+  "isDeleted": false,
+  "role": {
+    "$oid": "67ce972fc5201018246f5956"
+  },
+  "loginCount": 0,
+  "createdAt": {
+    "$date": "2025-03-10T07:39:39.842Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T07:39:39.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ce9a9c4f4c48337930cd58"
+  },
+  "username": "nguoidungmoi",
+  "password": "matkhau123",
+  "email": "nguoidungmoi@example.com",
+  "fullName": "Người Dùng Mới",
+  "avatarUrl": "http://example.com/avatar.jpg",
+  "status": false,
+  "isDeleted": false,
+  "role": {
+    "$oid": "67ce932a65f0bcaf42e7e13d"
+  },
+  "loginCount": 0,
+  "createdAt": {
+    "$date": "2025-03-10T07:54:04.562Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T07:54:04.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7e1dcb35b6b78b2f3c7ea"
+  },
+  "username": "testuser2",
+  "password": "$2b$10$CJl9zt/0UuG8xJflIjJ1o.CxTXbr0Hac31sv87nK2k6M0gLpmGsxC",
+  "email": "test@example.com",
+  "fullName": "",
+  "avatarUrl": "",
+  "status": false,
+  "loginCount": 0,
+  "role": {
+    "$oid": "67d7e1d5b35b6b78b2f3c7e1"
+  },
+  "createdAt": {
+    "$date": "2025-03-17T08:48:28.412Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T08:48:28.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7e4b43e960baeb86f05d6"
+  },
+  "username": "uniqueuser123",
+  "password": "$2b$10$Jg62cExrPi0dUT5gP78oke19MFx6fa9J8BVeNxKoyzsZiFyXra7PW",
+  "email": "unique@example.com",
+  "fullName": "",
+  "avatarUrl": "",
+  "status": false,
+  "loginCount": 0,
+  "role": {
+    "$oid": "67d7e1d5b35b6b78b2f3c7e1"
+  },
+  "createdAt": {
+    "$date": "2025-03-17T09:00:36.237Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T09:20:14.510Z"
+  },
+  "__v": 0
+}]
