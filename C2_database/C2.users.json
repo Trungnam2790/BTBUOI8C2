@@ -133,4 +133,158 @@
     "$date": "2025-03-17T09:20:14.510Z"
   },
   "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e10138d9dd7d40bfe7d80b"
+  },
+  "username": "admin123",
+  "password": "$2b$10$u1MdUUemux1pW7G.VrhJre4HHyX4GKTtZV8WODGLibcMAWK2SwCyy",
+  "email": "admin@example.com",
+  "fullName": "Quản Trị Viên",
+  "avatarUrl": "https://example.com/admin.jpg",
+  "status": false,
+  "loginCount": 0,
+  "role": {
+    "$oid": "67d7e8a6ba0eee369a6261a1"
+  },
+  "createdAt": {
+    "$date": "2025-03-24T06:52:40.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T06:52:40.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e10138d9dd7d40bfe7d80f"
+  },
+  "username": "moderator123",
+  "password": "$2b$10$E4PoTLhlzznv3VfJBe99Ee5x1tCsCtROLCu42w7v0nDBT/EftLzZ6",
+  "email": "mod@example.com",
+  "fullName": "Kiểm Duyệt Viên",
+  "avatarUrl": "https://example.com/mod.jpg",
+  "status": false,
+  "loginCount": 0,
+  "role": {
+    "$oid": "67d7e8a6ba0eee369a6261a0"
+  },
+  "createdAt": {
+    "$date": "2025-03-24T06:52:40.835Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T06:52:40.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e10138d9dd7d40bfe7d813"
+  },
+  "username": "user123",
+  "password": "$2b$10$SlLPqlXMNrUBUt1ELmAs4uiXFtdsJUIh.pdgK9ph2FlwM0xbZIDYK",
+  "email": "user@example.com",
+  "fullName": "Người Dùng",
+  "avatarUrl": "https://example.com/user.jpg",
+  "status": false,
+  "loginCount": 0,
+  "role": {
+    "$oid": "67d7e8a6ba0eee369a62619f"
+  },
+  "createdAt": {
+    "$date": "2025-03-24T06:52:40.935Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T06:52:41.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e1025c8d55e4cc8df62612"
+  },
+  "username": "testuser3",
+  "password": "$2b$10$hkuX4diTSAvpIplv9lJ3jOSRurhfPi.jFwrTMdlyyv.Sap/DoixrG",
+  "email": "test3@example.com",
+  "fullName": "",
+  "avatarUrl": "",
+  "status": false,
+  "loginCount": 0,
+  "role": {
+    "$oid": "67d7e8a6ba0eee369a62619f"
+  },
+  "createdAt": {
+    "$date": "2025-03-24T06:57:32.458Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T06:57:32.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e1030318dd1b2fcd82985b"
+  },
+  "username": "testuser4",
+  "password": "$2b$10$xw3U9MgNFBDr6DNmFPLOeuJjlLsCEjvv7ukZTLGwqLYOt2YSqWjfy",
+  "email": "test4@example.com",
+  "fullName": "Người Dùng Test",
+  "avatarUrl": "https://example.com/avatar.jpg",
+  "status": false,
+  "loginCount": 0,
+  "role": {
+    "$oid": "67d7e8a6ba0eee369a62619f"
+  },
+  "createdAt": {
+    "$date": "2025-03-24T07:00:19.425Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T07:00:19.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e105272b75bd1b4ba79bd9"
+  },
+  "username": "testuser5",
+  "password": "$2b$10$/yh/dolh9mDn7sHwITwnd.sAPaw/WvioBtJ722bZJtZCWF2oEpm86",
+  "email": "test5@example.com",
+  "fullName": "Người Dùng Test gf",
+  "avatarUrl": "https://example.com/avatar.jpg",
+  "status": false,
+  "loginCount": 0,
+  "role": {
+    "$oid": "67d7e8a6ba0eee369a6261a0"
+  },
+  "createdAt": {
+    "$date": "2025-03-24T07:09:27.036Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T07:09:27.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e105892b75bd1b4ba79be5"
+  },
+  "username": "testuser6",
+  "password": "$2b$10$dIVw7sFkmbUG2OTFmNkso.E6ESZE8UaBfuJGdtZK3FVTGeI5ezP7S",
+  "email": "test6@example.com",
+  "fullName": "Người Dùng Test gf",
+  "avatarUrl": "https://example.com/avatar.jpg",
+  "status": false,
+  "loginCount": 0,
+  "role": {
+    "$oid": "67d7e8a6ba0eee369a6261a1"
+  },
+  "createdAt": {
+    "$date": "2025-03-24T07:11:05.545Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T07:11:05.545Z"
+  },
+  "__v": 0
 }]
